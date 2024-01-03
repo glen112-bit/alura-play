@@ -1,0 +1,18 @@
+{
+  "name": "aluraplay-requisiciones",
+  "version": "1.0.0",
+  "type": "module",
+  "Access-Control-Allow-Origin": "http://localhost:3000",
+  "description": "<p align=\"center\"> <img src=\"https://imgur.com/J3hD21O.png\" alt=\"Javascript: criando requisições\"> </p>",
+  "server": "json-server --watch ./src/utils/server.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
